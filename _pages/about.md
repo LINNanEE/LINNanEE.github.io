@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 I am currently pursuing my Ph.D. degree in Electrical and Computer Engineering at [State Key Laboratory for Internet of Things for Smart City](https://skliotsc.um.edu.mo/){:target="_blank"} of [University of Macau](https://www.um.edu.mo/){:target="_blank"}.
-I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2022 and 2019, respectively.
+I received my M.Eng. degree in Electrical Engineering and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2022 and 2019, respectively.
 {: .text-justify}
 <br>My current research interests include:
 <br>1. security risk analysis and control considering uncertainties;
