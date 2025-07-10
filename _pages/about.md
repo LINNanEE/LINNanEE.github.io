@@ -25,7 +25,7 @@ Please feel free to contact me for further exchanges and cooperation (email is p
 
 * Jul. 2025, **ESI Highly Cited Paper**: my paper in *CSEE Journal of Power and Energy Systems*.
 * Jun. 2025, Submission: a paper (first author) was submitted to *International Transactions on Electrical Energy Systems*.
-* Jul. 2024, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Smart Grid*.
+* Jan. 2025, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Smart Grid*.
 * Nov. 2022, Award: I was awarded the Outstanding Master's Thesis of Fuzhou University.
 * Jun. 2022, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Power Systems*.
 * Jul. 2022, Award: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
