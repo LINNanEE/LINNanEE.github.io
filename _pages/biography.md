@@ -18,7 +18,6 @@ redirect_from:
 
 ## Academic Service
 * Reviewer -
-<br>*IEEE Transactions on Power Systems*
 <br>*International Journal of Electrical Power and Energy Systems*
 <br>*The APSCOM 2025 Conference, IET, Hong Kong, 2025*
 {: .text-justify}
