@@ -10,7 +10,7 @@ redirect_from:
 ## Education
 
 * Ph.D. in Electrical and Computer Engineering, University of Macau, 2022 - Now
-* M.Eng. in Power System & Automation, Fuzhou University, 2019 - 2022
+* M.Eng. in Electrical Engineering, Fuzhou University, 2019 - 2022
 * B.Eng. in Electrical Engineering & Automation, Fuzhou University, 2015 - 2019
 {: .text-justify}
 
